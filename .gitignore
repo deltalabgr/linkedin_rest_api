@@ -6,3 +6,7 @@
 /pkg/
 /spec/reports/
 /tmp/
+
+Dockerfile
+docker-compose.yml
+entrypoint.sh
